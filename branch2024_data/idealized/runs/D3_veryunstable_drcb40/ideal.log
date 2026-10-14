@@ -1,0 +1,29 @@
+ starting wrf task            0  of            1
+taskid: 0 hostname: vm
+ module_io_quilt_old.F        2931 F
+Quilting with   1 groups of   0 I/O tasks.
+ Ntasks in X            1 , ntasks in Y            1
+IDEAL V4.2.1 PREPROCESSOR
+  Domain # 1: dx =  2778.000 m
+ *************************************
+ Parent domain
+ ids,ide,jds,jde            1         206           1          17
+ ims,ime,jms,jme           -4         211          -4          22
+ ips,ipe,jps,jpe            1         206           1          17
+ *************************************
+DYNAMICS OPTION: Eulerian Mass Coordinate
+   alloc_space_field: domain            1 ,             384641744  bytes allocated
+ Domain            1  Resetting history stream            0  for thm
+ Domain            1  Resetting history stream            0  for p_hyd
+ Domain            1  Resetting history stream            0  for qice
+ Domain            1  Resetting history stream            0  for qsnow
+ Domain            1  Resetting history stream            0  for qgraup
+ Domain            1  Resetting history stream            0  for qnice
+ Domain            1  Resetting history stream            0  for qnsnow
+ Domain            1  Resetting history stream            0  for qnrain
+ Domain            1  Resetting history stream            0  for qngraupel
+ Domain            1  Resetting history stream            0  for qke
+ Domain            1  Resetting history stream            0  for tke_pbl
+ Domain            1  Resetting history stream            0  for el_pbl
+ Domain            1  Resetting history stream            0  for cldfra
+  wrf: SUCCESS COMPLETE IDEAL INIT

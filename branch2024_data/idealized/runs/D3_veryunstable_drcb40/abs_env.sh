@@ -1,0 +1,5 @@
+export ABS_VEGTYPE=26
+export ABS_EMISSIVITY=0.9
+export ABS_PV_EFFICIENCY=0.0
+export ABS_PV_TEMP_COEF=0.0
+export ABS_SPECTRAL_FILE=spectral_abs.txt
